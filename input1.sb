@@ -1,0 +1,5 @@
+Employee,101,John Doe,3000,1
+Employee,102,Alice Smith,4500.50,2
+Manager,1,Jane Smith,5000,HR
+Manager,2,Mark White,6000,Sales
+Employee,103,Bad Salary,notanumber,1
