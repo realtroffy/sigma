@@ -7,6 +7,7 @@
 ## Требования
 - Java 17
 - Maven 3.8.0 или выше
+- Lombok 1.18.34
 
 ## Структура проекта
 - `src/main/java/by/koronatech/App.java` — основная логика приложения
